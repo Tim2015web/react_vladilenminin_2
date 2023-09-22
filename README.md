@@ -7,7 +7,7 @@
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
 
 <img alt="HTML5" src="https://img.shields.io/badge/-Webpack-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=Webpack&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 </p>
 
