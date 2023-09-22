@@ -7,8 +7,8 @@
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
 
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white">
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=Webpack&logoColor=white">
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=ffffff">
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8dd6f8?style=flat-square&logo=Webpack&logoColor=white">
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F7?style=flat-square&logo=Webpack&logoColor=white">
 
 
 </p>
