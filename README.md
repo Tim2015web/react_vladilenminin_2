@@ -13,3 +13,7 @@
 [Show the project](https://tim2015web.github.io/react_vladilenminin_2/)
 
 [Lesson](https://www.youtube.com/watch?v=lkbm-zlcFvs&list=PL6H_kK93Bl15PBpN0K38c5dRXAIEccAGR&index=31)
+
+---
+
+Find GitHub users, add repositories to the list of favorites.
