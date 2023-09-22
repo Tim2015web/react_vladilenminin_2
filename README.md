@@ -4,8 +4,8 @@
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
 
-<img alt="Webpack" src="https://img.shields.io/badge/-webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
